@@ -172,6 +172,6 @@ private:
   calculator C;
   C.show();
   getch();
-}
+
 
 
